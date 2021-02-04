@@ -16,6 +16,11 @@ import java.net.URL;
 
 public class Shopify {
 
+    Shopify(){
+
+    }
+
+
 
     public static void main(String[] args) {
         try {
